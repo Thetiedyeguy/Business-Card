@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Josiah Johnson</string>
+    <string name="title">Computer Scientist</string>
+    <string name="phoneNumber">(209)568-7740</string>
+    <string name="email">Thetiedyeguy42@gmail.com</string>
+    <string name="socialHandle">\@ExampleHandle</string>
+</resources>
